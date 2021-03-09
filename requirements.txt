@@ -1,0 +1,8 @@
+certifi
+chardet
+idna
+pip
+pyTelegramBotAPI
+requests
+setuptools
+urllib3
